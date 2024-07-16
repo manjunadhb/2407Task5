@@ -1,0 +1,47 @@
+#mainHeading {
+  background-color: deepskyblue;
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  border: 10px solid deeppink;
+  border-radius: 40px;
+  text-shadow: 10px 10px 10px black;
+  box-shadow: 10px 10px 10px black;
+}
+
+#playersMainHeading {
+  background-color: deepskyblue;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  border: 10px solid deeppink;
+  border-radius: 40px;
+  text-shadow: 10px 10px 10px black;
+  box-shadow: 10px 10px 10px black;
+}
+
+#viratKohli {
+  background-color: maroon;
+  color: white;
+  width: 200px;
+}
+
+#viratKohliPic {
+  width: 400px;
+}
+
+#viratKohliDesc {
+  font-size: 1.2rem;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+#IPLPlayersBody {
+  background-color: lightgreen;
+}
+
+#indexBody {
+  background-color: lightcoral;
+}
